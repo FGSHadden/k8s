@@ -21,11 +21,22 @@
 ## Installation
 
 ### Kubernetes
+
+Katakoda
+<https://www.katacoda.com/courses/kubernetes>
+
 Windows:
 
 ```sh
 Some Install command
 ```
+
+### Monitoring Stack
+ELK Stack
+<https://www.elastic.co/elk-stack>
+
+Dynatrace
+<https://www.dynatrace.com/>
 
 ## Usage example
 

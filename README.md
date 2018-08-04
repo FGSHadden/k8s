@@ -11,7 +11,7 @@
 <https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557>
 <https://github.com/walidshaari/Kubernetes-Certified-Administrator>
 
-CKA Course
+## CKA Course
 <https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course?utm_source=linkedin&utm_medium=ad&utm_campaign=2018ind_CKAcourse>
 
 
@@ -20,20 +20,14 @@ CKA Course
 
 ## Installation
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
+### Kubernetes
 Windows:
 
 ```sh
-edit autoexec.bat
+Some Install command
 ```
 
 ## Usage example
-
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
@@ -61,9 +55,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/fgshadden/k8s/wiki

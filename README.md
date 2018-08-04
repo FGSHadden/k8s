@@ -5,14 +5,14 @@
 
 ## CKA Links
 
-(<https://www.reddit.com/r/kubernetes/comments/7qdan7/certified_kubernetes_administrator_cka_training/>)
-(<https://www.reddit.com/r/kubernetes/comments/8n8slm/unofficial_cncf_certified_kubernetes/>)
-(<https://vsupalov.com/unofficial-kubernetes-self-assessment/>)
-(<https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557>)
-(<https://github.com/walidshaari/Kubernetes-Certified-Administrator>)
+<https://www.reddit.com/r/kubernetes/comments/7qdan7/certified_kubernetes_administrator_cka_training/>
+<https://www.reddit.com/r/kubernetes/comments/8n8slm/unofficial_cncf_certified_kubernetes/>
+<https://vsupalov.com/unofficial-kubernetes-self-assessment/>
+<https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557>
+<https://github.com/walidshaari/Kubernetes-Certified-Administrator>
 
 CKA Course
-(<https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course?utm_source=linkedin&utm_medium=ad&utm_campaign=2018ind_CKAcourse>)
+<https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course?utm_source=linkedin&utm_medium=ad&utm_campaign=2018ind_CKAcourse>
 
 
 ## CKAD Links
